@@ -1,0 +1,26 @@
+{
+    "authors": "Scott Hatcher <https://github.com/scatcher>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "angular"
+    ],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "7",
+    "libraryMinorVersion": "2",
+    "libraryName": "angular-formly 7.2.3",
+    "typingsPackageName": "angular-formly",
+    "projectName": "https://github.com/formly-js/angular-formly",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "MultipleModules",
+    "globals": [],
+    "declaredModules": [
+        "AngularFormly",
+        "angular-formly"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "c4f6d302fdea2ff4139adc8ef2ccd8bacfa2f29516e33c1814db8c62034d4a7e"
+}

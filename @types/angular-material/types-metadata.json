@@ -1,0 +1,29 @@
+{
+    "name": "angular-material",
+    "libraryName": "Angular Material (angular.material module)",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "data": {
+        "authors": "Blake Bigelow <https://github.com/blbigelow>, Peter Hajdu <https://github.com/PeterHajdu>, Davide Donadello <https://github.com/Dona278>",
+        "dependencies": {
+            "angular": "*"
+        },
+        "pathMappings": {},
+        "libraryMajorVersion": 1,
+        "libraryMinorVersion": 1,
+        "typeScriptVersion": "2.0",
+        "libraryName": "Angular Material (angular.material module)",
+        "typingsPackageName": "angular-material",
+        "projectName": "https://github.com/angular/material",
+        "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+        "globals": [],
+        "declaredModules": [
+            "angular-material/."
+        ],
+        "files": [
+            "index.d.ts"
+        ],
+        "hasPackageJson": false,
+        "contentHash": "399917b1cd9860742c81f7ae5292e5a446ecd7b88b2729371f351dca8c782832"
+    },
+    "isLatest": true
+}

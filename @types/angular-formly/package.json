@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/angular-formly",
+        "scope": "@types",
+        "escapedName": "@types%2fangular-formly",
+        "name": "@types/angular-formly",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Luis\\Documents\\Git\\typescript\\angular-ts-base"
+    ]
+  ],
+  "_from": "@types/angular-formly@latest",
+  "_id": "@types/angular-formly@7.2.30",
+  "_inCache": true,
+  "_location": "/@types/angular-formly",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular-formly-7.2.30.tgz_1474301806228_0.4086712871212512"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/angular-formly",
+    "scope": "@types",
+    "escapedName": "@types%2fangular-formly",
+    "name": "@types/angular-formly",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/angular-formly/-/angular-formly-7.2.30.tgz",
+  "_shasum": "5248734aed9c7cfd89053b9935cc8116ac153111",
+  "_shrinkwrap": null,
+  "_spec": "@types/angular-formly",
+  "_where": "C:\\Users\\Luis\\Documents\\Git\\typescript\\angular-ts-base",
+  "author": {
+    "name": "Scott Hatcher",
+    "email": "https://github.com/scatcher"
+  },
+  "dependencies": {
+    "@types/angular": "*"
+  },
+  "description": "TypeScript definitions for angular-formly 7.2.3",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5248734aed9c7cfd89053b9935cc8116ac153111",
+    "tarball": "https://registry.npmjs.org/@types/angular-formly/-/angular-formly-7.2.30.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/angular-formly",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "c4f6d302fdea2ff4139adc8ef2ccd8bacfa2f29516e33c1814db8c62034d4a7e",
+  "typings": "index.d.ts",
+  "version": "7.2.30"
+}

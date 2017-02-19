@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/angular-modal",
+        "scope": "@types",
+        "escapedName": "@types%2fangular-modal",
+        "name": "@types/angular-modal",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Luis\\Documents\\Git\\typescript\\angular-ts-base"
+    ]
+  ],
+  "_from": "@types/angular-modal@latest",
+  "_id": "@types/angular-modal@0.5.30",
+  "_inCache": true,
+  "_location": "/@types/angular-modal",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/angular-modal-0.5.30.tgz_1474302161397_0.6597183004487306"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/angular-modal",
+    "scope": "@types",
+    "escapedName": "@types%2fangular-modal",
+    "name": "@types/angular-modal",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/angular-modal/-/angular-modal-0.5.30.tgz",
+  "_shasum": "0cf8735139e89c233f0fb359ad74d02ede393f06",
+  "_shrinkwrap": null,
+  "_spec": "@types/angular-modal",
+  "_where": "C:\\Users\\Luis\\Documents\\Git\\typescript\\angular-ts-base",
+  "author": {
+    "name": "Paul Lessing",
+    "email": "https://github.com/paullessing"
+  },
+  "dependencies": {
+    "@types/angular": "*",
+    "@types/jquery": "*"
+  },
+  "description": "TypeScript definitions for angular-modal 0.5.0",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0cf8735139e89c233f0fb359ad74d02ede393f06",
+    "tarball": "https://registry.npmjs.org/@types/angular-modal/-/angular-modal-0.5.30.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/angular-modal",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "9b355ae59de31cf5000c132a3cf4988cb408907b1b8cb3280f427c5b6abfe7f1",
+  "typings": "index.d.ts",
+  "version": "0.5.30"
+}

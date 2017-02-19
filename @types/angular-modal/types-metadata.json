@@ -1,0 +1,24 @@
+{
+    "authors": "Paul Lessing <https://github.com/paullessing>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "angular",
+        "jquery"
+    ],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "5",
+    "libraryName": "angular-modal 0.5.0",
+    "typingsPackageName": "angular-modal",
+    "projectName": "https://github.com/btford/angular-modal",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "Global",
+    "globals": [],
+    "declaredModules": [],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "9b355ae59de31cf5000c132a3cf4988cb408907b1b8cb3280f427c5b6abfe7f1"
+}
