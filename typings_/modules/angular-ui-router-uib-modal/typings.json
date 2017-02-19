@@ -1,8 +1,0 @@
-{
-  "resolution": "main",
-  "tree": {
-    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/05e9c858cf55270a48b1234e613fa9b26da8be23/angular-ui-router-uib-modal/index.d.ts",
-    "raw": "registry:dt/angular-ui-router-uib-modal#0.11.0+20161220195540",
-    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/05e9c858cf55270a48b1234e613fa9b26da8be23/angular-ui-router-uib-modal/index.d.ts"
-  }
-}
